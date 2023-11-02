@@ -4,18 +4,27 @@ date: 2022-10-24
 
 type: landing
 
-sections:
-  - block: hero
-    content:
-      title: |
-        REWILD-FIRE
-        Research Project
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **REWILD-FIRE Research Project** aims to assess trade-offs between increased biomass carbon and potential carbon losses from wildfire emissions and compare choices regarding the spatial planning of reforestation and proforestation throughout the Italian Alps.
+[book layout]({{< relref “index.md” >}}) 
+
+## Conteext
+
+## Aims of the project
+
+## Expected results
+
+
+# sections:
+#  - block: hero
+ #   content:
+ #     title: |
+ #       REWILD-FIRE
+ #       Research Project
+ #     image:
+ #       filename: welcome.jpg
+ #     text: |
+ #       <br>
+ #       
+ #      The **REWILD-FIRE Research Project** aims to assess trade-offs between increased biomass carbon and potential carbon losses from wildfire emissions and compare choices regarding the spatial planning of reforestation and proforestation throughout the Italian Alps.
     
   # - block: slider
   #  content:

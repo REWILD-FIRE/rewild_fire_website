@@ -17,6 +17,8 @@ sections:
         
         The REWILD-FIRE will assess the additional C sink associated with promoting reforestation on former agricultural land and proforestation of existing forests. The project will assess tradeoffs between increased biomass C and potential C losses from wildfire emissions and compare choices regarding the spatial planning of reforestation and proforestation throughout the Italian Alps. The project will strive to achieve three specific objectives.
 
+---
+
 ```markmap {height="200px"}
 - Hugo Modules
   - wowchemy
@@ -24,9 +26,4 @@ sections:
   - wowchemy-plugins-netlify-cms
   - wowchemy-plugins-reveal
 ```
-    
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
----
+  

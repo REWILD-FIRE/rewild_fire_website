@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        The **REWILD-FIRE Research Project** aims to assess trade-offs between increased biomass carbon and potential carbon losses from wildfire emissions and compare choices regarding the spatial planning of reforestation and proforestation throughout the Italian Alps.
+        <DIV STYLE = "text-align:justify;"> The **REWILD-FIRE Research Project** aims to assess trade-offs between increased biomass carbon and potential carbon losses from wildfire emissions and compare choices regarding the spatial planning of reforestation and proforestation throughout the Italian Alps.</DIV>
   
   - block: collection
     content:

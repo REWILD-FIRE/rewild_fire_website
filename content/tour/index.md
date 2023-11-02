@@ -17,7 +17,7 @@ sections:
         
         The REWILD-FIRE will assess the additional C sink associated with promoting reforestation on former agricultural land and proforestation of existing forests. The project will assess tradeoffs between increased biomass C and potential C losses from wildfire emissions and compare choices regarding the spatial planning of reforestation and proforestation throughout the Italian Alps. The project will strive to achieve three specific objectives.
 
-
+        ![Project organisation](Project_organisation.png "caption")
 
 
     design:

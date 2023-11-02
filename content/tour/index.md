@@ -1,10 +1,3 @@
----
-title: About
-date: 2022-10-24
-
-type: landing
-
-
 % [book layout]({{< relref “index.md” >}}) 
 
 ## Context
@@ -19,4 +12,4 @@ hand, rewilding may also generate unintended consequences, such as increased fir
 ## Aims of the project
 
 ## Expected results
----
+

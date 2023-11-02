@@ -3,6 +3,7 @@ title: About
 date: 2022-10-24
 
 type: landing
+---
 
 [book layout]({{< relref “index.md” >}}) 
 
@@ -72,4 +73,4 @@ type: landing
   #    loop: false
   #    # Duration of transition between slides (in ms)
   #    interval: 2000
----
+#---

@@ -7,7 +7,7 @@ first_name: Davide
 last_name: Ascoli
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Associate professor, Chair of Fire Management, Chair of Forest Measurements

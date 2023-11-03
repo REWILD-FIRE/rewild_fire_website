@@ -72,5 +72,5 @@ user_groups:
   - Researchers
 ---
 
-
+My goal is to understand how trees and forests respond to climate change, how the benefits they provide to humanity are evolving and how to manage them sustainably ensuring their conservation, resilience and ability to fight the crisis current climate. To do this, I use computer simulation models capable of predicting the evolution of forests and their functioning following global warming, forest management, forest fires and wind storms. For my research, I was listed by Nature magazine as one of 11 emerging scientists in the world in 2018.
 

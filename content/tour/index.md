@@ -18,22 +18,7 @@ The REWILD-FIRE will assess the additional C sink associated with promoting refo
 
 Combining field observations, remote sensing, and vegetation modelling with policy strategies scenarios, REWILD-FIRE will inform regional, national and European policy makers of the contribution of forest NBS to achieve net zero emissions by 2050 in mountain regions. The project will investigate the effect of alternative planning choices to rewilding and identify which ones can better support systemic CDR. REWILD-FIRE will use a dedicated cross-scale analysis, linking site-based measurement to an Alpine-wide assessment of land cover dynamics, embedded in the current EU policy context (i.e. Biodiversity Strategy) and informed by global scenarios.
 
-#The project activities will be divided into 3 main axes : 
-
-#```markmap {height="200px"}
-#- REWILD-FIRE Project
-#  - **WP1 :** Rewilding
-#  - **WP2 :** Carbon
-#  - **WP3 :** Fire
-#```
-
-The project will be structured according to **three specific objectives**:
-1) predicting land cover changes under rewilding and climate change scenarios
-2) modelling vegetation growth and C dynamics under reforestation and proforestation as a function of time, land cover and
-climate change
-3) assessing potential C losses due to emerging fire regimes under rewilding and climate change scenarios
-
-The three objectives will be achieved by project activities organised in **three interacting work-packages** (Figure 1). 
+The three objectives of the project will be achieved by project activities organised in **three interacting work-packages** (Figure 1). 
 
 ![screen reader text](Project_organisation.png "Figure 1 - REWILD-FIRE main work flow diagram including WP1, WP2, WP3.")
 

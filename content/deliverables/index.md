@@ -31,11 +31,12 @@ gantt
   D5.2     :a10, 01-12, 1M
   D5.2     :a11, 02-12, 1M
 ```
+
+
+```mermaid
 {
   "theme": "forest"
 }
-
-```mermaid
 gantt
   title ''
   dateFormat  YYYY-MM

@@ -12,11 +12,8 @@ toc: false
         
 ```mermaid
 gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
+  dateFormat  YY-MM
+  section WP1 : REWILDING
+  A task           :a1, 01-10, 30d
+  Another task     :after a1, 02-12, 20d
 ```

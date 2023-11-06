@@ -13,8 +13,21 @@ toc: false
 ```mermaid
 gantt
   dateFormat  YY-MM
-  Initial milestone : m1, 01-01, 0M
-  section WP1 - REWILDING
-  A task           : 01-10, 1M
-  Another task     : 02-12, 1M
+  axisFormat %y-%m
+  section WP1
+  D1.1     : 01-10, 1M
+  D1.2     : 02-12, 1M
+  section WP2
+  D2.1     : 01-12, 1M
+  D2.2     : 02-06, 1M
+  section WP3
+  D3.1     : 02-04, 1M
+  D3.2     : 02-08, 1M
+  section WP4
+  D4.1     : 01-06, 1M
+  D4.2     : 02-10, 1M
+  section WP5
+  D5.1     : 01-03, 1M
+  D5.2     : 01-12, 1M
+  D5.2     : 02-12, 1M
 ```

@@ -36,7 +36,7 @@ gantt
   title ''
   dateFormat  YYYY-MM
   axisFormat %Y-%m
-  "theme": "forest"
+  theme forest
   section WP1
   D1.1     :a1, 2024-06, 1M
   D1.2     :a2, 2025-06, 1M

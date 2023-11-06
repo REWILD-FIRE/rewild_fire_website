@@ -32,6 +32,7 @@ gantt
   D5.2     :a11, 02-12, 1M
 ```
 
+```mermaid
 gantt
   title ''
   dateFormat  YYYY-MM
@@ -53,3 +54,4 @@ gantt
   D5.1     :a9, 2023-11, 1M
   D5.2     :a10, 2024-08, 1M
   D5.2     :a11, 2025-08, 1M
+```

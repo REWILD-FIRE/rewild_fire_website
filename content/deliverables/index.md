@@ -34,9 +34,7 @@ gantt
 
 
 ```mermaid
-{
-  "theme": "forest"
-}
+%%{init: {'theme':'forest'}}%%
 gantt
   title ''
   dateFormat  YYYY-MM

@@ -12,7 +12,7 @@ toc: false
         
 
 ```mermaid
-%%{init: {'theme':'forest'}}%%
+%%{init: {'theme':'forest';font-size: 11px}}%%
 gantt
   title ''
   dateFormat  YYYY-MM

@@ -24,7 +24,6 @@ The project will produce several deliverables including land use maps, dataset o
 ```mermaid
 %%{init: {'theme':'forest'}}%%
 gantt
-  title     
   dateFormat  YYYY-MM
   axisFormat %Y-%m
   section WP1

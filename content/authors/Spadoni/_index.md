@@ -10,7 +10,7 @@ last_name: Spadoni
 superuser: false
 
 # Role/position
-role: PhD Student
+role: PhD candidate in Sustainable Development and Climate Change
 
 # Organizations/Affiliations
 organizations:
@@ -21,15 +21,15 @@ organizations:
 bio: 
 
 interests:
+- Fire geospatial characterization
+- Multivariate statistics
+- Tropical and subtropical landscape ecology
 
 education:
   courses:
-    - course: 
-      institution: 
-      year: 
-    - course: 
-      institution: 
-      year: 
+    - course: Master Degree in environmental engineering
+      institution: Sapienze, University of Rome, Italy
+      year: current
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -65,4 +65,4 @@ highlight_name: true
 user_groups:
   - PhD student
 ---
-
+Gian Luca deals with large-scale studies that explore the interactions between natural and anthropogenic forest disturbances. He is particularly interested in investigating how processes like land abandonment and deforestation affect fire regimes, using geospatial statistical analysis and remote sensing as key research tools. In his studies, Gian Luca strives to identify effective land governance strategies aimed at preserving the natural fire regimes and mitigating fire impacts.

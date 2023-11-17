@@ -21,16 +21,17 @@ organizations:
 bio: 
 
 interests:
-- Remote sensing
-- Forest management
-- Land Use Planning
+- Land use changes and forest management
+- Monitoring of forest ecosystem functions and services by remote sensing
+- Non-wood forest products
+- Urban Forestry
 
 education:
   courses:
-    - course: Ph.D. Landscape and environment design management and planning
-      institution: University of Rome, Rome, Italy
+    - course: Ph.D. Landscape and environment design, management and planning
+      institution: Sapienza, University of Rome, Rome, Italy
       year: 2015
-    - course: Master Degree in Forestry and environmental sciences
+    - course: Master Degree in Forestry
       institution: University of Tuscia, Viterbo, Italy
       year: 2011
 
@@ -68,4 +69,5 @@ highlight_name: true
 user_groups:
   - Researchers
 ---
-
+My main research lines deal with (i) sustainable forest management to increase multiple benefits provided by forests to humans, (ii) the use of remote sensing to monitor forest resources in the context of global change.
+I have collaborated in national and European projects studying the effects land use and land cover change and forest management on biodiversity and carbon sequestration. I have also collaborated on projects focused on innovative landscape planning for wildfire risk prevention, with particular reference to large forest fires.

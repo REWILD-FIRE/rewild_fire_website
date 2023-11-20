@@ -67,7 +67,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - University of Udine
+  #- Researchers
 ---
 My main research lines deal with (i) sustainable forest management to increase multiple benefits provided by forests to humans, (ii) the use of remote sensing to monitor forest resources in the context of global change.
 I have collaborated in national and European projects studying the effects land use and land cover change and forest management on biodiversity and carbon sequestration. I have also collaborated on projects focused on innovative landscape planning for wildfire risk prevention, with particular reference to large forest fires.

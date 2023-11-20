@@ -14,7 +14,7 @@ role: PhD candidate in Sustainable Development and Climate Change
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Agricultural, Forest and Food Sciences, University of Torino, Italy
+  - name: Department of Agricultural, Forest and Food Sciences, University of Turin, Italy
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -63,6 +63,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PhD student
+  - University of Turin
+  #- PhD student
 ---
 Gian Luca deals with large-scale studies that explore the interactions between natural and anthropogenic forest disturbances. He is particularly interested in investigating how processes like land abandonment and deforestation affect fire regimes, using geospatial statistical analysis and remote sensing as key research tools. In his studies, Gian Luca strives to identify effective land governance strategies aimed at preserving the natural fire regimes and mitigating fire impacts.

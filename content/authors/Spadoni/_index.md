@@ -28,8 +28,8 @@ interests:
 education:
   courses:
     - course: Master Degree in environmental engineering
-      institution: Sapienze, University of Rome, Italy
-      year: current
+      institution: Sapienza, University of Rome, Italy
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -66,6 +66,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Research assistant
+  - University of Milan
+  #- Research assistant
 ---
 My academic background has fostered a strong interest for the protection of natural resources and the interplay of humans with their environment. I have recently collaborated as a research assistant with the University of Milan acquiring experience in project development, use of models and programmes as well as overseeing fieldwork and data collection. Main research lines: (i)investigating land use change and reforestation across alpine arch (ii)researching the influence of different forest management approaches on ecosystem services (iii)influence of climate on forest fires and species distribution

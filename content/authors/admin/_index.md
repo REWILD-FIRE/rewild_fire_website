@@ -66,7 +66,8 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - University of Turin
+  #- Researchers
 ---
 
 Main research lines: (i) forest ecology and disturbances with particular attention to wildfires in Alpine, Temperate and Mediterranean ecosystems; (ii) planning, design, and evaluation of forestry for wildfire risk prevention with particular attention to pyrosylviculture and prescribed burning; (iii) characterization and modeling of forest fuels; (iv) development of tools for predicting fire danger and fire behavior; (v) development of guidelines for post-fire management.

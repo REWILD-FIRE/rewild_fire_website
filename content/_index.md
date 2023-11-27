@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 image: 
-  filename: welcome.jpg
+  filename: 'Fire_2.jpg'
   placement: 1
   caption:
   focal_point: 'Center'

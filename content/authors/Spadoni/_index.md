@@ -65,5 +65,9 @@ highlight_name: true
 user_groups:
   - University of Turin
   #- PhD student
+
+# The order within the user group
+order_groups:
+  - 2
 ---
 Gian Luca deals with large-scale studies that explore the interactions between natural and anthropogenic forest disturbances. He is particularly interested in investigating how processes like land abandonment and deforestation affect fire regimes, using geospatial statistical analysis and remote sensing as key research tools. In his studies, Gian Luca strives to identify effective land governance strategies aimed at preserving the natural fire regimes and mitigating fire impacts.

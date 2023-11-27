@@ -5,18 +5,12 @@ date: 2022-10-24
 type: landing
 
  
-sections:
+sections:   
   - block: hero
     content:
+      title: REWILD-FIRE Research Project
       image:
         filename: welcome.jpg
-        placement: 1
-    
-  - block: markdown
-    content:
-      title: |
-        REWILD-FIRE
-        Research Project
       text: |
         <br>
         

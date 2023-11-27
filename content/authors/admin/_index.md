@@ -68,6 +68,10 @@ highlight_name: true
 user_groups:
   - University of Turin
   #- Researchers
+
+# The order within the user group
+order_groups:
+  - 1
 ---
 
 Main research lines: (i) forest ecology and disturbances with particular attention to wildfires in Alpine, Temperate and Mediterranean ecosystems; (ii) planning, design, and evaluation of forestry for wildfire risk prevention with particular attention to pyrosylviculture and prescribed burning; (iii) characterization and modeling of forest fuels; (iv) development of tools for predicting fire danger and fire behavior; (v) development of guidelines for post-fire management.

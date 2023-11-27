@@ -4,9 +4,12 @@ title:
 date: 2022-10-24
 type: landing
 
-banner:
-  image: 'Fire_2.jpg'
+image: 
+  filename: welcome.jpg
+  placement: 1
   caption:
+  focal_point: 'Center'
+  preview_only: false
   
 sections:
   - block: hero

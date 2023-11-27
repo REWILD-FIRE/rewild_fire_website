@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 banner:
-  image: 'welcome.jpg'
+  image: 'Fire_2.jpg'
   caption:
   
 sections:

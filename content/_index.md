@@ -19,6 +19,13 @@ sections:
 
 
         The **REWILD-FIRE Research Project** aims to assess trade-offs between increased biomass carbon and potential carbon losses from wildfire emissions and compare choices regarding the spatial planning of reforestation and proforestation throughout the Italian Alps. Combining **field observations**, **remote sensing**, and **vegetation modelling** with **policy strategies scenarios**, the project will inform policy makers of the contribution of forest nature-based solutions to achieve net zero emissions by 2050 in mountain regions. The project will also investigate the effect of alternative planning choices to rewilding and identify which ones can better support carbon dioxide removal.
+
+  - block: markdown
+    id: section-1
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
   
   - block: collection
     content:

@@ -69,6 +69,10 @@ highlight_name: true
 user_groups:
   - University of Udine
   #- Researchers
+
+# The order within the user group
+order_groups:
+  - 2
 ---
 My main research lines deal with (i) sustainable forest management to increase multiple benefits provided by forests to humans, (ii) the use of remote sensing to monitor forest resources in the context of global change.
 I have collaborated in national and European projects studying the effects land use and land cover change and forest management on biodiversity and carbon sequestration. I have also collaborated on projects focused on innovative landscape planning for wildfire risk prevention, with particular reference to large forest fires.

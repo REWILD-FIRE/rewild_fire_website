@@ -4,14 +4,13 @@ title:
 date: 2022-10-24
 type: landing
 
-image: 
-  filename: 'Fire_2.jpg'
-  placement: 1
-  caption:
-  focal_point: 'Center'
-  preview_only: false
-  
+ 
 sections:
+  - block: hero
+    content:
+      image:
+        filename: welcome.jpg
+    
   - block: hero
     content:
       title: |

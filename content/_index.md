@@ -22,9 +22,8 @@ sections:
           position: center
           size: cover
           text_color_light: true
-          crop: '600x400' 
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['40px', '0', '40px', '0']
       css_class: fullscreen
   
   - block: markdown

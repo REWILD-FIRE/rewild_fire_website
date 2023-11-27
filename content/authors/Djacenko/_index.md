@@ -68,5 +68,9 @@ highlight_name: true
 user_groups:
   - University of Milan
   #- Research assistant
+
+# The order within the user group
+order_groups:
+  - 2
 ---
 My academic background has fostered a strong interest for the protection of natural resources and the interplay of humans with their environment. I have recently collaborated as a research assistant with the University of Milan acquiring experience in project development, use of models and programmes as well as overseeing fieldwork and data collection. Main research lines: (i)investigating land use change and reforestation across alpine arch (ii)researching the influence of different forest management approaches on ecosystem services (iii)influence of climate on forest fires and species distribution

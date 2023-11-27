@@ -23,7 +23,7 @@ sections:
          - University of Rome
          - University of Turin
          - University of Udine
-      sort_by: Params.last_name
+      sort_by: Params.order_groups
       sort_ascending: true
     design:
       show_interests: false

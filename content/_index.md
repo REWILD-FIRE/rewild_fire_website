@@ -16,8 +16,6 @@ sections:
       title: |
         REWILD-FIRE
         Research Project
-      image:
-        filename: welcome.jpg
       text: |
         <br>
         

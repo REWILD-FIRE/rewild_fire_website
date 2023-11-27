@@ -23,7 +23,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['40px', '0', '40px', '0']
+        padding: ['0px', '0', '0px', '0']
       css_class: fullscreen
   
   - block: markdown

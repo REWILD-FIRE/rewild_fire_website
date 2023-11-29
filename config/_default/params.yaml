@@ -10,7 +10,7 @@ appearance:
   theme_night:
   font: native
   font_size: L
-  color: red
+  color: 'assets/css/themes/red.css'
 
 # SEO
 

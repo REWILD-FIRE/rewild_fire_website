@@ -6,11 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  #theme_day: minimal
+  #theme_night:
   font: native
   font_size: L
-  color: 'assets/css/themes/red.css'
+  mode: light
+  color: red
 
 # SEO
 

@@ -14,7 +14,7 @@ role: Associate professor, Chair of Fire Management, Chair of Forest Measurement
 
 # Organizations/Affiliations
 organizations:
-  - name: Department DISAFA, University of Torino, Italy
+  - name: Department of Agricultural, Forest and Food Sciences (DISAFA), University of Turin, Italy
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

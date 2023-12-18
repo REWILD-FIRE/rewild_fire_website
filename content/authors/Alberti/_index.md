@@ -68,7 +68,7 @@ highlight_name: true
 user_groups:
   - University of Udine
 
-# The order within the user group
+# The order within the user group 
 order_groups:
   - 1
 

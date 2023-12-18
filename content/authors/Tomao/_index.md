@@ -68,7 +68,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Udine
-  #- Researchers
 
 # The order within the user group
 order_groups:

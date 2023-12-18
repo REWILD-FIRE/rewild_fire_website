@@ -24,7 +24,7 @@ sections:
          - University of Udine
          - University of Rome
       sort_by: Params.order_groups
-      sort_ascending: true
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true

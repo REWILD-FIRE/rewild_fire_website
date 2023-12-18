@@ -71,8 +71,7 @@ user_groups:
   #- Researchers
 
 # The order within the user group
-order_groups:
-  - 2
+order_groups: 2
 
 ---
 

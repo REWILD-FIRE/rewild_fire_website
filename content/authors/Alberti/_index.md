@@ -1,4 +1,8 @@
 ---
+# The order within the user group
+order_groups:
+  - 1
+
 # Display name
 title: Giorgio Alberti
 
@@ -63,9 +67,6 @@ highlight_name: true
 user_groups:
   - University of Udine
 
-# The order within the user group
-order_groups:
-  - a
 ---
 
 I deal with ecological issues concerning carbon and nitrogen cycles in agricultural and forestry ecosystems. I have collaborated with Italian and foreign research groups engaged in studying the effects of climate change, land use changes and forest management on productivity and carbon sequestration in the context of national and European projects. I have also collaborated on projects on possible climate change mitigation techniques in agriculture and forestry as well as on the relationships between biodiversity and ecosystem services. I recently collaborated on technology transfer projects in developing countries.

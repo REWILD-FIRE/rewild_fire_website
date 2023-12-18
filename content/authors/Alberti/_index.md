@@ -42,15 +42,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'giorgio.alberti@uniud.it'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar-google-com.docelec.univ-lyon1.fr/citations?user=_XFl4WkAAAAJ&hl=it
-  #- icon: github
-  #  icon_pack: fab
-  #  link: https://github.com/gcushen
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -67,7 +62,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Udine
-  #- Researchers
 
 # The order within the user group
 order_groups:

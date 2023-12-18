@@ -18,13 +18,13 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:
 
 interests:
-- Land use changes and forest management
-- Monitoring of forest ecosystem functions and services by remote sensing
-- Non-wood forest products
-- Urban Forestry
+  - Land use changes and forest management
+  - Monitoring of forest ecosystem functions and services by remote sensing
+  - Non-wood forest products
+  - Urban Forestry
 
 education:
   courses:
@@ -68,11 +68,13 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Udine
+  #- Researchers
 
-# The order within the user group 
+# The order within the user group
 order_groups:
-  - 3
+  - 2
 ---
 
 My main research lines deal with (i) sustainable forest management to increase multiple benefits provided by forests to humans, (ii) the use of remote sensing to monitor forest resources in the context of global change.
 I have collaborated in national and European projects studying the effects land use and land cover change and forest management on biodiversity and carbon sequestration. I have also collaborated on projects focused on innovative landscape planning for wildfire risk prevention, with particular reference to large forest fires.
+

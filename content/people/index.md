@@ -20,10 +20,9 @@ sections:
          # - Visitors
          # - Alumni
          - University of Milan
-         - University of Rome
          - University of Turin
          - University of Udine
-    
+         - University of Rome
       sort_by: Params.order_groups
       sort_ascending: true
     design:

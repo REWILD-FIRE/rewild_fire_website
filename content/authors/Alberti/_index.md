@@ -1,8 +1,4 @@
 ---
-# The order within the user group
-order_groups:
-  - 1
-
 # Display name
 title: Giorgio Alberti
 
@@ -66,6 +62,10 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Udine
+
+# The order within the user group
+order_groups:
+  - 1
 
 ---
 

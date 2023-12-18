@@ -72,7 +72,7 @@ user_groups:
 
 # The order within the user group
 order_groups:
-  - 2
+  - b
 ---
 
 My main research lines deal with (i) sustainable forest management to increase multiple benefits provided by forests to humans, (ii) the use of remote sensing to monitor forest resources in the context of global change.

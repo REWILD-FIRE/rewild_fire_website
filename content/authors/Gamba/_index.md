@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Raquele Gamba
+title: Rachele Gamba
 
 # Full Name (for SEO)
-first_name: Raquele
+first_name: Rachele
 last_name: Gamba
 
 # Is this the primary user of the site?

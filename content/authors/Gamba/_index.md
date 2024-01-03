@@ -31,7 +31,7 @@ education:
       institution: University of Torino, Italy
       year: 2023
     - course: Bachelor Degree in Protection and production of plants and green systems
-      intitution: University of Milano, Italy
+      institution: University of Milano, Italy
       year: 2020
 
 # Social/Academic Networking

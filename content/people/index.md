@@ -11,9 +11,9 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
+         - University of Turin
          - University of Milan
          - University of Rome
-         - University of Turin
          - University of Udine
       sort_by: Params.order_groups
     design:

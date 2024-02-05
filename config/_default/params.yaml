@@ -51,11 +51,6 @@ header:
 # Site footer
 
 footer:
-  logo:
-      # Logo text
-      text: ""
-      # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
   copyright:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
@@ -63,6 +58,11 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+    logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
 
 # Localization
 

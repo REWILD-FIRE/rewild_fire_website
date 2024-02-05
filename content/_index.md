@@ -69,5 +69,8 @@ sections:
             brightness: 1
           parallax: false
           position: center
+          size:
           text_color_light: true
 ---
+
+![screen reader text](rewild_fire_EU_logos.png "")

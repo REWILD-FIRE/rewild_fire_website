@@ -61,7 +61,7 @@ sections:
       subtitle: ''
       text:
       image: 
-          filename: rewild_fire_EU_logos.png
+        filename: rewild_fire_EU_logos.png
     design:
       columns: '1'
       color: 'white'

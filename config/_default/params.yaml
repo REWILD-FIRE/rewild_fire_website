@@ -46,7 +46,7 @@ header:
       # Logo text
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: "rewild_fire_logo.png"
+      filename: "logo.svg"
 
 # Site footer
 

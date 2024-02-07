@@ -3,7 +3,7 @@ title:
 date: 2022-09-24
 toc: false
 ---
- {{< gallery album="<front>" >}}
+ {{< gallery albums="<front>" >}}
  
 <h3>Context</h3>
 

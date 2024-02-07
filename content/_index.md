@@ -4,7 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
- {{< gallery album="<FRONT>" >}}
  
 sections:   
   - block: markdown
@@ -58,3 +57,4 @@ sections:
 
 ---
 
+ {{< gallery album="<FRONT>" >}}

@@ -8,22 +8,13 @@ type: landing
 sections:   
   - block: markdown
     content:
-      title:
+      title: Gallery
       subtitle: ''
-      text:
+      text: |-
+        {{< gallery album="front" >}}
     design:
       columns: '1'
-      background:
-        image: 
-          filename: welcome.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-
-  
+    
   - block: markdown
     content:
       title: REWILD-FIRE Research Project
@@ -56,5 +47,3 @@ sections:
       columns: '1'
 
 ---
-
- {{< gallery album="<FRONT>" >}}

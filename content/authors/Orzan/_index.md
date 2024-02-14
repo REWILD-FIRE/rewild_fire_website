@@ -73,5 +73,4 @@ user_groups:
 order_groups: 3
 
 ---
-
 I’m interested in the effects of global changes on organisms and ecosystems, with particular attention to plants communities. I recently started my PhD at University of Udine focusing on the effects of natural rewilding on biodiversity applying remote sensing techniques. I’m collaborating in national and European projects studying the effects land use and land cover change and forest management on biodiversity and carbon sequestration.    

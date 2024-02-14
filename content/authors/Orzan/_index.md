@@ -64,7 +64,7 @@ user_groups:
   - University of Udine
 
 # The order within the user group
-order_groups: 1
+order_groups: 3
 
 ---
 

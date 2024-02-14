@@ -21,9 +21,9 @@ organizations:
 bio:
 
 interests:
-  - Forest ecology and management
-  - Biodiversity monitoring by remote sensing
-  - Land use change detection
+- Forest ecology and management
+- Biodiversity monitoring by remote sensing
+- Land use change detection
 
 education:
   courses:
@@ -67,10 +67,9 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Udine
-  #- Researchers
+
 
 # The order within the user group
 order_groups: 3
-
 ---
 I’m interested in the effects of global changes on organisms and ecosystems, with particular attention to plants communities. I recently started my PhD at University of Udine focusing on the effects of natural rewilding on biodiversity applying remote sensing techniques. I’m collaborating in national and European projects studying the effects land use and land cover change and forest management on biodiversity and carbon sequestration.    

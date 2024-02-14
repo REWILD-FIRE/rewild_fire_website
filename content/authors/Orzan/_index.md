@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Antonio Tomao
+title: Giorgio Alberti
 
 # Full Name (for SEO)
-first_name: Antonio
-last_name: Tomao
+first_name: Giorgio
+last_name: Alberti
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Assistant professor
+role: Associate professor in Silviculture and Forest Management
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: My research interests include ecological issues concerning carbon and nitrogen cycles in agricultural and forestry ecosystems.
 
 interests:
   - Land use changes and forest management
-  - Monitoring of forest ecosystem functions and services by remote sensing
-  - Non-wood forest products
-  - Urban Forestry
+  - Impacts of climate change on croplands and forests and possible mitigation strategies
+  - Biodiversity and forest ecosystem functions and services
 
 education:
   courses:
-    - course: Ph.D. Landscape and environment design, management and planning
-      institution: Sapienza, University of Rome, Rome, Italy
-      year: 2015
-    - course: Master Degree in Forestry
-      institution: University of Tuscia, Viterbo, Italy
-      year: 2011
+    - course: Ph.D. in Ecology, University of Udine
+      institution:
+      year: 2006
+    - course: Master Degree in Forestry, University of Firenze
+      institution:
+      year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,16 +41,11 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'antonio.tomao@uniud.it'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/GeorgeCushen
+    link: 'giorgio.alberti@uniud.it'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.it/citations?user=gKRF3pAAAAAJ&hl=it
-  #- icon: github
-  #  icon_pack: fab
-  #  link: https://github.com/gcushen
+    link: https://scholar-google-com.docelec.univ-lyon1.fr/citations?user=_XFl4WkAAAAJ&hl=it
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,12 +62,10 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Udine
-  #- Researchers
 
 # The order within the user group
-order_groups: 3
+order_groups: 1
 
 ---
 
-My main research lines deal with (i) sustainable forest management to increase multiple benefits provided by forests to humans, (ii) the use of remote sensing to monitor forest resources in the context of global change.
-I have collaborated in national and European projects studying the effects land use and land cover change and forest management on biodiversity and carbon sequestration. I have also collaborated on projects focused on innovative landscape planning for wildfire risk prevention, with particular reference to large forest fires.
+I deal with ecological issues concerning carbon and nitrogen cycles in agricultural and forestry ecosystems. I have collaborated with Italian and foreign research groups engaged in studying the effects of climate change, land use changes and forest management on productivity and carbon sequestration in the context of national and European projects. I have also collaborated on projects on possible climate change mitigation techniques in agriculture and forestry as well as on the relationships between biodiversity and ecosystem services. I recently collaborated on technology transfer projects in developing countries.

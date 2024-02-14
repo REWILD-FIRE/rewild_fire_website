@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Giorgio Alberti
+title: Lorenzo Orzan
 
 # Full Name (for SEO)
-first_name: Giorgio
-last_name: Alberti
+first_name: Lorenzo
+last_name: Orzan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Associate professor in Silviculture and Forest Management
+role: PhD candidate in Life and Environment
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ecological issues concerning carbon and nitrogen cycles in agricultural and forestry ecosystems.
+bio:
 
 interests:
-  - Land use changes and forest management
-  - Impacts of climate change on croplands and forests and possible mitigation strategies
-  - Biodiversity and forest ecosystem functions and services
+- Forest ecology and management
+- Biodiversity monitoring by remote sensing
+- Land use change detection
 
 education:
   courses:
-    - course: Ph.D. in Ecology, University of Udine
-      institution:
-      year: 2006
-    - course: Master Degree in Forestry, University of Firenze
-      institution:
-      year: 2002
+    - course: Master Degree in Global Change Ecology
+      institution: University of Trieste, Italy
+      year: 2023
+    - course: Bachelor Degree in Science for the Environment and the Nature
+      institution: University of Udine, Italy
+      year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -41,11 +41,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'giorgio.alberti@uniud.it'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar-google-com.docelec.univ-lyon1.fr/citations?user=_XFl4WkAAAAJ&hl=it
-
+    link: 'lorenzo.orzan@phd.units.it'
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.it/citations?user=gKRF3pAAAAAJ&hl=it
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,9 +68,8 @@ highlight_name: true
 user_groups:
   - University of Udine
 
+
 # The order within the user group
 order_groups: 3
-
 ---
-
-I deal with ecological issues concerning carbon and nitrogen cycles in agricultural and forestry ecosystems. I have collaborated with Italian and foreign research groups engaged in studying the effects of climate change, land use changes and forest management on productivity and carbon sequestration in the context of national and European projects. I have also collaborated on projects on possible climate change mitigation techniques in agriculture and forestry as well as on the relationships between biodiversity and ecosystem services. I recently collaborated on technology transfer projects in developing countries.
+I’m interested in the effects of global changes on organisms and ecosystems, with particular attention to plants communities. I recently started my PhD at University of Udine focusing on the effects of natural rewilding on biodiversity applying remote sensing techniques. I’m collaborating in national and European projects studying the effects land use and land cover change and forest management on biodiversity and carbon sequestration.    

@@ -26,7 +26,6 @@ interests:
 - Impact of disturbances on ecosystems
 - Soil health and functionality
 
-
 education:
   courses:
     - course: Ph.D. Functional Ecology

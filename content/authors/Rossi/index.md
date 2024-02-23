@@ -14,7 +14,7 @@ role: Research assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Agricultural and Environmental Sciences - Production, Landscape, Agroenergy, University of Milan, Italy
+  - name: Department of Agricultural and Environmental Sciences, University of Milan, Italy
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

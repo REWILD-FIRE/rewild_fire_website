@@ -22,7 +22,7 @@ bio:
 
 interests:
 - Land use changes and forest management
-- Quantification of ecosystem services provided by forests
+- Quantification of ecosystem services provided by forests 
 - Impact of disturbances on ecosystems
 - Soil health and functionality
 
@@ -33,10 +33,8 @@ education:
       year: 2019
     - course: Ph.D. Engineering Methods, Models and Technologies
       institution: University of Cassino, Italy
-      year: 
     - course: Master Degree in International Land and Water Management
       institution: University of Wageningen, Netherlands
-      year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -71,10 +71,8 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Milan
-  #- Research assistant
 
 # The order within the user group
 order_groups: 3
 ---
-
 Lorenzo MW Rossi is a soil ecologist that focus his research on the quantification and optimization of ecosystem services, with specialization in carbon cycle, solution design, monitoring and assessment, and modelling. He has experience in different types ecosystems, although today his research focuses on forests. He has been involved in numerous European projects and H2020 (e.g. SUPERB, RESTCOAST, TULIPS, TERRE) and private consulting as ‘lead scientist’, and has extensive experience in project management.

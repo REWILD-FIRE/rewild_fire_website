@@ -19,7 +19,7 @@ The project will produce several deliverables including land use maps, dataset o
 - D4.1 : Website, dissemination plan and graphic identity.
 - D4.2 : Policy brief.
   
-- D5.1 : Project guidebook[[uploads/deliverables/REWILDFIRE_D5.1_UNITO_20231110_0.2]].
+- D5.1 : Project guidebook{{< staticref "uploads/deliverables/REWILDFIRE_D5.1_UNITO_20231110_0.2.pdf" "newtab" >}}.
 - D5.2 : Reports of the kick-off meeting and annual General assembly meetings.
 
 

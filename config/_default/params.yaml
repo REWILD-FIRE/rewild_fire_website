@@ -54,6 +54,12 @@ header:
 footer:
     enable: true
     custom: true
+    show_logo: true
+    logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
   #copyright:
   #  notice: '© {year} Me. This work is licensed under {license}'
   #  license:

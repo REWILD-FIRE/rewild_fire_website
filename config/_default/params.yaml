@@ -52,14 +52,8 @@ header:
 # Site footer
 
 footer:
-    enable: true
-    custom: true
-    show_logo: true
-    logo:
-      # Logo text
-      text: ""
-      # Logo filename in `assets/media/` folder
-      filename: "logo.svg"
+  copyright:
+    notice: '© {year} Me. This work is licensed under {license} <div class="custom-footer"><img src="/media/logo.svg" alt="Footer Image"></div>'
   #copyright:
   #  notice: '© {year} Me. This work is licensed under {license}'
   #  license:

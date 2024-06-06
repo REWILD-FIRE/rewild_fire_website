@@ -53,19 +53,7 @@ header:
 
 footer:
   copyright:
-    notice: ' <div class="custom-footer"><img src="/media/logo.svg" alt="Footer Image"></div>'
-  #copyright:
-  #  notice: '© {year} Me. This work is licensed under {license}'
-  #  license:
-  #    enable: true
-  #    allow_derivatives: false
-  #    share_alike: true
-  #    allow_commercial: false
-    #logo:
-      ## Logo text
-      #text: ""
-      ## Logo filename in `assets/media/` folder
-      #filename: "logo.svg"
+    notice: '<div class="custom-footer"><img src="/media/logo.svg" alt="Footer Image"></div>'
 
 # Localization
 

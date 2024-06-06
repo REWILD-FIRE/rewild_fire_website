@@ -53,7 +53,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license} <div class="custom-footer"><img src="logo.svg" alt="Footer Image"></div>'
+    notice: ' <div class="custom-footer"><img src="/media/logo.svg" alt="Footer Image"></div>'
   #copyright:
   #  notice: '© {year} Me. This work is licensed under {license}'
   #  license:

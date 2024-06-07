@@ -47,7 +47,7 @@ header:
       # Logo text
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: logo.svg
+      filename: header.svg
 
 # Site footer
 

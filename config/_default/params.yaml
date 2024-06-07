@@ -47,13 +47,13 @@ header:
       # Logo text
       text: ""
       # Logo filename in `assets/media/` folder
-      filename: header.svg
+      filename: logo.svg
 
 # Site footer
 
 footer:
   copyright:
-    notice: '<div class="custom-footer"><img src= "media/logo.svg" alt="Footer Image"></div>'
+    notice: '<div class="custom-footer"><img src= "media/footer/logo.svg" alt="Footer Image"></div>'
 
 # Localization
 

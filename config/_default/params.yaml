@@ -53,7 +53,7 @@ header:
 
 footer:
   copyright:
-    notice: '<div class="custom-footer"><img src= "/media/logosEU.svg" alt="Footer Image"></div>'
+    notice: '<div class="custom-footer"><img src="/media/logosEU.svg" alt="Footer Image"></div>'
 
 # Localization
 

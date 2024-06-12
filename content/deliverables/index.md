@@ -2,7 +2,6 @@
 title: 
 date: 2023-11-06
 toc: false
-
 banner:
   image: 'logosEU.svg'
   caption: ''

@@ -47,7 +47,10 @@ gantt
   D5.2     :a10, 2024-09, 1M
   D5.2     :a11, 2025-09, 1M
 
-banner:
-  image: 'logosEU.svg'
-  caption: ''
 ```
+
+.footer {
+    height: 90px;
+    margin: 0;
+    background : url('assets/media/logosEU.svg') repeat-x;
+}

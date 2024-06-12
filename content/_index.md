@@ -43,9 +43,4 @@ sections:
     design:
       view: card
       columns: '1'
-
-
-  - banner:
-    image: 'welcome.jpg'
-    caption: ''
 ---

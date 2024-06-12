@@ -50,10 +50,11 @@ header:
       filename: logo.svg
 
 
+#footer:
+#  copyright:
+#    notice: '<div class="page-footer"><img src="/media/logoEU.svg" alt="Footer Image"></div>'
 footer:
-  copyright:
-    notice: '<div class="page-footer"><img src="/media/logoEU.svg" alt="Footer Image"></div>'
-
+  block: minimal
 
 
 # Localization

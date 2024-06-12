@@ -51,14 +51,18 @@ header:
 
 # Site footer
 
-footer:
+#footer:
   #copyright:
     #notice: '<div class="custom-footer"><img src="/media/logo.svg" alt="Footer Image"></div>'
-  logo:
+#  logo:
       # Logo text
-      text: ""
+#      text: ""
       # Logo filename in `assets/media/` folder
-      filename: logosEU.svg
+#      filename: logosEU.svg
+
+page-footer:
+	background: url("./assets/medioa/logosEU.svg") no-repeat bottom center
+
 
 # Localization
 

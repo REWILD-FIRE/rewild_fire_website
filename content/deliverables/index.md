@@ -48,9 +48,3 @@ gantt
   D5.2     :a11, 2025-09, 1M
 
 ```
-
-
-banner:
-  image: 'logosEU.svg'
-  caption: ''
-

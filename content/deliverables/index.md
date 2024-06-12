@@ -49,8 +49,8 @@ gantt
 
 ```
 
-.footer {
-    height: 90px;
-    margin: 0;
-    background : url('assets/media/logosEU.svg') repeat-x;
-}
+
+banner:
+  image: 'logosEU.svg'
+  caption: ''
+

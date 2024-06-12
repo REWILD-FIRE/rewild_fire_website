@@ -45,7 +45,7 @@ sections:
       columns: '1'
 
 
-banner:
-  image: 'logosEU.svg'
-  caption: ''
+  - banner:
+    image: 'logosEU.svg'
+    caption: ''
 ---

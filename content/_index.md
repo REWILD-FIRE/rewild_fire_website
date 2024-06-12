@@ -46,6 +46,6 @@ sections:
 
 
   - banner:
-    image: 'logo.svg'
+    image: 'welcome.jpg'
     caption: ''
 ---

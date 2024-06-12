@@ -2,9 +2,6 @@
 title: 
 date: 2023-11-06
 toc: false
-banner:
-  image: 'logosEU.svg'
-  caption: ''
 ---
 
 <h3>Expected deliverables</h3>
@@ -49,4 +46,8 @@ gantt
   D5.1     :a9, 2023-12, 1M
   D5.2     :a10, 2024-09, 1M
   D5.2     :a11, 2025-09, 1M
+
+banner:
+  image: 'logosEU.svg'
+  caption: ''
 ```

@@ -44,4 +44,8 @@ sections:
       view: card
       columns: '1'
 
+
+banner:
+  image: 'logosEU.svg'
+  caption: ''
 ---

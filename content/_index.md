@@ -46,6 +46,6 @@ sections:
 
 
   - banner:
-    image: 'logosEU.svg'
+    image: 'logo.svg'
     caption: ''
 ---

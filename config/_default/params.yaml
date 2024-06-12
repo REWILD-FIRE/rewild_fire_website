@@ -52,7 +52,7 @@ header:
 
 footer:
   copyright:
-    notice: '<div class="custom-footer"><img src="/media/logoEU.svg" alt="Footer Image"></div>'
+    notice: '<div class="page-footer"><img src="/media/logoEU.svg" alt="Footer Image"></div>'
 
 
 

@@ -9,3 +9,4 @@ The REWILD-FIRE project is starting !
 
 <!--more-->
 
+![screen reader text](logosEU.svg "")

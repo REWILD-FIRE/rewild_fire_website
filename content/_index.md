@@ -35,7 +35,12 @@ sections:
       view: card
       columns: '1'
 
-![screen reader text](logosEU.svg "")
+ - block: markdown
+    id: footer
+    content:
+      title: ''
+      image: logosEU.svg
+    design:
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
 ---
-
-![screen reader text](logosEU.svg "")

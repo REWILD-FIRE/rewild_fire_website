@@ -34,6 +34,8 @@ sections:
     design:
       view: card
       columns: '1'
+
+![screen reader text](logosEU.svg "")
 ---
 
 ![screen reader text](logosEU.svg "")

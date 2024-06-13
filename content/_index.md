@@ -44,4 +44,12 @@ sections:
       view: card
       columns: '1'
 
+ - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="front" >}}
+    design:
+      columns: '1'
 ---

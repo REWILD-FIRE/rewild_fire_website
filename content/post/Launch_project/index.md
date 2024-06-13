@@ -9,4 +9,4 @@ The REWILD-FIRE project is starting !
 
 <!--more-->
 
-![screen reader text](https://rewild-fire.com/assets/media/logosEU.svg "")
+![screen reader text](../assets/media/logosEU.svg "")

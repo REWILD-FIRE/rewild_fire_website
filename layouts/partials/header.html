@@ -58,7 +58,10 @@
   {{ $image_container = "article-container" }}
   {{ $image = $featured.Fit "720x2500" }}
 {{end}}
-{{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
+{{ if and (not (eq $image.MediaType.Type "image")) (not (eq $image.MediaType.SubType "gif")) }}
+    {{ $image = $image.Process "webp" }}
+{{ end }}
+
 
 <div class="article-container pt-3">
   <h1>{{ $title }}</h1>

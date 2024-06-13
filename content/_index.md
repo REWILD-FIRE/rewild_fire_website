@@ -43,4 +43,17 @@ sections:
     design:
       view: card
       columns: '1'
+
+  - block: cta-card
+    content:
+      title: Build your future-proof website
+      text: As easy as 1, 2, 3!
+      button:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+    design:
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
 ---

@@ -1,8 +1,6 @@
 ---
 title: Poster presentation at the XIV SISEF Congress
 date: 2024-10-16
-image:
-  focal_point: 'top'
 ---
 
 [Sophia Djacenko](https://rewild-fire.com/author/sophia-djacenko/) and [Giorgio Vacchiano](https://rewild-fire.com/author/giorgio-vacchiano/) presented a poster about the evaluation of stem curvature and volumetric estimation of the Salerno forest domain using LiDAR technologies at the [XIV SISEF Congress](https://congressi.sisef.org/xiv-congresso/).
@@ -13,4 +11,7 @@ Abstract: Today, the sustainable management of Italy's forests requires the use 
 
 Check-out the poster.
 
-
+---
+image:
+  focal_point: 'top'
+---

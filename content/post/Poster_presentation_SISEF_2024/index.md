@@ -1,3 +1,9 @@
+---
+title: Poster presentation at the XIV SISEF Congress
+date: 2024-10-16
+image:
+  focal_point: 'top'
+---
 
 {{< staticref "content/authors/Djacenko/_index.md" "newtab" >}}Sophia Djacenko{{< /staticref >}} and {{< staticref "content/authors/Vacchiano/_index.md" "newtab" >}}Giorgio Vacchiano{{< /staticref >}} presented a poster about the evaluation of stem curvature and volumetric estimation of the Salerno forest domain using LiDAR technologies at the [XIV SISEF Congress](https://congressi.sisef.org/xiv-congresso/).
 

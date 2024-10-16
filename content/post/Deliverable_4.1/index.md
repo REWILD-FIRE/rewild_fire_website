@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-Deliverable 4.1 for the website, distribution plan and graphic identity {{< staticref "uploads/deliverables/REWILDFIRE_D4.1.pdf" "newtab" >}} is now available{{< /staticref >}}.
+Deliverable 4.1 for the {{< staticref "uploads/deliverables/REWILDFIRE_D4.1.pdf" "newtab" >}}website, distribution plan and graphic identity{{< /staticref >}} is now available.
 
 <!--more-->
 

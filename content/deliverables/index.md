@@ -16,7 +16,7 @@ The project will produce several deliverables including land use maps, dataset o
 - D3.1 : Maps of burnt area and high fire risk zones at each replicated landscape.
 - D3.2 : Estimates of carbon emissions by land use class within each eco-region to project carbon changes in environmental space and over time.
   
-- D4.1 : Website, dissemination plan and graphic identity.
+- D4.1 : {{< staticref "uploads/deliverables/REWILDFIRE_D4.1.pdf" "newtab" >}}Website, dissemination plan and graphic identity{{< /staticref >}}
 - D4.2 : Policy brief.
   
 - D5.1 : {{< staticref "uploads/deliverables/REWILDFIRE_D5.1_UNITO_20231110_0.2.pdf" "newtab" >}}Project guidebook{{< /staticref >}}.

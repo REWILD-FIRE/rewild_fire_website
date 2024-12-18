@@ -11,7 +11,7 @@ The project will produce several deliverables including land use maps, dataset o
 - D1.2 : Rewilding potential and priority regions at EU scale.
 
 - D2.1 : Dataset on carbon sequestration following reforestation and proforestation.
-- D2.1 : Dynamic models for reforestation and proforestation.
+- D2.2 : Dynamic models for reforestation and proforestation.
   
 - D3.1 : Maps of burnt area and high fire risk zones at each replicated landscape.
 - D3.2 : Estimates of carbon emissions by land use class within each eco-region to project carbon changes in environmental space and over time.

@@ -36,7 +36,7 @@ featured: true
 
 links:
   - name: Conference website
-    url: [http://example.org](https://congressi.sisef.org/xiv-congresso/?id=poster)
+    url: https://congressi.sisef.org/xiv-congresso/?id=poster
 url_pdf: '#'
 url_code: '#'
 url_dataset: '#'

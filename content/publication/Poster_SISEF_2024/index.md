@@ -37,7 +37,7 @@ featured: true
 links:
   - name: Conference website
     url: https://congressi.sisef.org/xiv-congresso/?id=poster
-url_pdf: '#'
+url_pdf: 'uploads/deliverables/Poster_SISEF_2024.pdf'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

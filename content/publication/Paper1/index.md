@@ -32,11 +32,12 @@ abstract: An accurate estimation of organic carbon (OC) in forest ecosystems is 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Organic arbon
-- carbon sequestration
-- standing deadwood
-- explainable machine learning
-- remote sensing
+- Source Themes
+#- Organic arbon
+#- carbon sequestration
+#- standing deadwood
+#- explainable machine learning
+#- remote sensing
 featured: false
 
 # links:

@@ -9,7 +9,6 @@ authors:
   - Antonio Tomao
   - Giuseppe Serra
 date: '2025-06-27T00:00:00Z'
-doi: '10.1080/19475683.2025.2523737'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-06-27T00:00:00Z'

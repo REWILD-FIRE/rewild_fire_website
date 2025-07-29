@@ -38,7 +38,8 @@ featured: true
 links:
   - name: See the paper
     url: https://doi.org/10.1080/19475683.2025.2523737
-    url_pdf: 'uploads/publications/Fasihi_etal_2025.pdf'
+  - name: PDF
+    url: uploads/publications/Fasihi_etal_2025.pdf
 
 #url_code: '#'
 #url_dataset: '#'

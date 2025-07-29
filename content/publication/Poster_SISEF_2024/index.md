@@ -37,14 +37,15 @@ featured: true
 links:
   - name: Conference website
     url: https://congressi.sisef.org/xiv-congresso/?id=poster
-url_pdf: 'uploads/deliverables/Poster_SISEF_2024.pdf'
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+    url_pdf: 'uploads/deliverables/Poster_SISEF_2024.pdf'
+
+#url_code: '#'
+#url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -67,9 +68,3 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides:""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).

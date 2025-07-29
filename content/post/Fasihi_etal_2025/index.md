@@ -8,4 +8,4 @@ the estimation of organic carbon (OC) in forest ecosystems.
 
 <!--more-->
 
-Check-out [the article]({{< relref "/publication/Fasihi_etal_2025/_index" >}}).
+Check-out [the article]({{< relref "/publication/Fasihi_etal_2025/_index.md" >}}).

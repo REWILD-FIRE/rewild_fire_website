@@ -10,7 +10,7 @@ last_name: Gamba
 superuser: false
 
 # Role/position
-role: Research Assistant
+role: Research assistant
 
 # Organizations/Affiliations
 organizations:
@@ -48,9 +48,6 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: ''
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
@@ -58,7 +55,6 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Turin
-  #- Researchers
 
 # The order within the user group
 order_groups: 4

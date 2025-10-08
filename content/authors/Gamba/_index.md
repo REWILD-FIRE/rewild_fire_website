@@ -63,5 +63,4 @@ user_groups:
 # The order within the user group
 order_groups: 4
 ---
-
 My academic background has fostered a strong interest for the fire phenomenon and its impact on society and plants and ecosystems. I have recently start to collaborate as a research assistant with the University of Turin acquiring experience in fire planning, use of models and programmes, overseeing fieldwork and fuel data collection. Main research lines: (i) planning and evaluation of forestry for wildfire risk prevention, (ii) prescribed burning’s effects on plants, (iii) integration of strategic fuel management and nature conservation principles.

@@ -27,8 +27,8 @@ publishDate: '2025-10-08T00:00:00Z'
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['1']
+# 7 = Thesis; 8 = Patent; 9 = Poster; 10 = Talk
+publication_types: ['10']
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Fire in Central European Ecosystems*"

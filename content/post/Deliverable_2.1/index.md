@@ -5,7 +5,7 @@ image:
   focal_point: 'bottom'
 ---
 
-Deliverable 2.1 for the {{< staticref "uploads/deliverables/REWILDFIRE_D2.1.pdf" "newtab" >}} Dataset on carbon sequestration following reforestation and proforestation{{< /staticref >}} is now available.
+Deliverable 2.1 for the {{< staticref "uploads/deliverables/REWILDFIRE_D2.1.pdf" "newtab" >}}Dataset on carbon sequestration following reforestation and proforestation{{< /staticref >}} is now available.
 
 <!--more-->
 

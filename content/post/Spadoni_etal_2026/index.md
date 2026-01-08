@@ -5,7 +5,7 @@ image:
   focal_point: 'top'
 ---
 
-A new article by Gian Luca Spadoni have been {{< staticref "uploads/deliverables/Spadoni_etal_2026_ForestEcologyAndManagement.pdf" "newtab" >}}published{{< /staticref >}}.
+A new article by Gian Luca Spadoni have been {{< staticref "uploads/publications/Spadoni_etal_2026_ForestEcologyAndManagement.pdf" "newtab" >}}published{{< /staticref >}}.
 
 Abstract:
 Landscape-scale forest management is widely recognized as a means to sustain and enhance multiple forest ecosystem services. Recent policy frameworks, such as the EU2030 Forest and Biodiversity Strategies, and approaches

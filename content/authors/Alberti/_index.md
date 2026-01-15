@@ -42,6 +42,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'giorgio.alberti@uniud.it'
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar-google-com.docelec.univ-lyon1.fr/citations?user=_XFl4WkAAAAJ&hl=it

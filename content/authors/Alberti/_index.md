@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include ecological issues concerning carbon and nitrogen cycles in agricultural and forestry ecosystems.
 
 interests:
   - Land use changes and forest management
@@ -67,5 +67,4 @@ user_groups:
 order_groups: 1
 
 ---
-
 I deal with ecological issues concerning carbon and nitrogen cycles in agricultural and forestry ecosystems. I have collaborated with Italian and foreign research groups engaged in studying the effects of climate change, land use changes and forest management on productivity and carbon sequestration in the context of national and European projects. I have also collaborated on projects on possible climate change mitigation techniques in agriculture and forestry as well as on the relationships between biodiversity and ecosystem services. I recently collaborated on technology transfer projects in developing countries.

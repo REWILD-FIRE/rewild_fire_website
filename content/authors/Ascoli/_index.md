@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Frederick Rainsford
+title: Davide Rainsford
 
 # Full Name (for SEO)
-first_name: Frederick
+first_name: Davide
 last_name: Rainsford
 
 # Is this the primary user of the site?

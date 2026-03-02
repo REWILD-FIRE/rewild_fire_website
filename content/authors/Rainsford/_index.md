@@ -64,7 +64,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - University of Torino
+  - University of Turin
 
 # The order within the user group
 order_groups: 5

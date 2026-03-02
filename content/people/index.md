@@ -15,7 +15,7 @@ sections:
          - University of Milan
          - University of Rome
          - University of Udine
-       sort_by: Params.order_groups
+      sort_by: Params.order_groups
     design:
       show_interests: false
       show_role: true

@@ -10,31 +10,29 @@ last_name: Ascoli
 superuser: false
 
 # Role/position
-role: Research assistant
+role: Associate professor, Chair of Fire Management, Chair of Forest Measurements
 
 # Organizations/Affiliations
 organizations:
-  - name: Department of Agricultural and Environmental Sciences, University of Milan, Italy
+  - name: Department of Agricultural, Forest and Food Sciences (DISAFA), University of Turin, Italy
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include forest ecology and disturbances with particular attention to wildfires in Alpine, Temperate and Mediterranean ecosystems.
 
 interests:
-- Land use changes and forest management
-- Quantification of ecosystem services provided by forests 
-- Impact of disturbances on ecosystems
-- Soil health and functionality
+  - Fuel and fire behavior modelling
+  - Calibration and development of fire prediction systems
+  - Post-fire management guidelines in European forests
 
 education:
   courses:
-    - course: Ph.D. Functional Ecology
-      institution: University of Montpellier, France
-      year: 2019
-    - course: Ph.D. Engineering Methods, Models and Technologies
-      institution: University of Cassino, Italy
-    - course: Master Degree in International Land and Water Management
-      institution: University of Wageningen, Netherlands
+    - course: PhD in Agricultural, Forest and Food Sciences
+      institution: University of Torino, Italy
+      year: 2008
+    - course: Master Degree in Forest Sciences
+      institution: University of Torino, Italy
+      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,14 +41,14 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'lorenzo.rossi@unimi.it'
-  #- icon: twitter
+    link: 'd.ascoli@unito.it'
+  # - icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
-  #- icon: google-scholar
+  # - icon: google-scholar
   #  icon_pack: ai
   #  link: https://scholar.google.it/citations?user=gKRF3pAAAAAJ&hl=it
-  #- icon: github
+  # - icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
@@ -68,9 +66,9 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - University of Milan
+  - University of Turin
 
 # The order within the user group
-order_groups: 3
+order_groups: 1
 ---
-Lorenzo MW Rossi is a soil ecologist that focus his research on the quantification and optimization of ecosystem services, with specialization in carbon cycle, solution design, monitoring and assessment, and modelling. He has experience in different types ecosystems, although today his research focuses on forests. He has been involved in numerous European projects and H2020 (e.g. SUPERB, RESTCOAST, TULIPS, TERRE) and private consulting as ‘lead scientist’, and has extensive experience in project management.
+Main research lines: (i) forest ecology and disturbances with particular attention to wildfires in Alpine, Temperate and Mediterranean ecosystems; (ii) planning, design, and evaluation of forestry for wildfire risk prevention with particular attention to pyrosylviculture and prescribed burning; (iii) characterization and modeling of forest fuels; (iv) development of tools for predicting fire danger and fire behavior; (v) development of guidelines for post-fire management.

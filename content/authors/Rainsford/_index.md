@@ -28,9 +28,15 @@ interests:
 
 education:
   courses:
-    - course: P.h.D in Fire Ecology, La Trobe University, Melbourne, Australia, 2020.
-    - course: Graduate Certificate in Ornithology, Charlse Sturt University, Albury, Australia, 2015.
-    - course: Bachelor of Environmental Science and Management (Honours), University of Newcastle, Australia, 2010.
+    - course: Ph.D. in Fire Ecology
+      institution: La Trobe University, Melbourne, Australia
+      year: 2020
+    - course: Graduate Certificate in Ornithology
+      institution: Charlse Sturt University, Albury, Australia
+      year: 2015
+    - course: Bachelor of Environmental Science and Management (Honours)
+      institution: University of Newcastle, Australia
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Ascoli, Davide"
+title: "Davide Ascoli"
 
 # Full Name (for SEO)
 first_name: Davide

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Davide Fscoli
+title: Davide Ascoli
 
 # Full Name (for SEO)
 first_name: Davide
-last_name: Fleurot
+last_name: Ascoli
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Research Fellow
+role: Associate professor, Chair of Fire Management, Chair of Forest Measurements
 
 # Organizations/Affiliations
 organizations:
@@ -18,25 +18,21 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: My research interests include forest ecology and disturbances with particular attention to wildfires in Alpine, Temperate and Mediterranean ecosystems.
 
 interests:
-- Spatial ecology
-- Fire ecology
-- Biodiversity conservation
-- Global changes
+  - Fuel and fire behavior modelling
+  - Calibration and development of fire prediction systems
+  - Post-fire management guidelines in European forests
 
 education:
   courses:
-    - course: Ph.D. in Fire Ecology
-      institution: La Trobe University, Melbourne, Australia
-      year: 2020
-    - course: Graduate Certificate in Ornithology
-      institution: Charlse Sturt University, Albury, Australia
-      year: 2015
-    - course: Bachelor of Environmental Science and Management (Honours)
-      institution: University of Newcastle, Australia
-      year: 2010
+    - course: PhD in Agricultural, Forest and Food Sciences
+      institution: University of Torino, Italy
+      year: 2008
+    - course: Master Degree in Forest Sciences
+      institution: University of Torino, Italy
+      year: 2004
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'f.rainsford@unito.it'
+    link: 'd.ascoli@unito.it'
   # - icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
@@ -73,6 +69,6 @@ user_groups:
   - University of Turin
 
 # The order within the user group
-order_groups: 5
+order_groups: 1
 ---
-I am a fire ecologist from Australia with broad research interests in the role of fire in shaping ecosystems across a range of scales. My research integrates species traits, ecological processes at various scales and robust statistics to find solutions to current threats to global biodiversity including changing fire regimes.
+Main research lines: (i) forest ecology and disturbances with particular attention to wildfires in Alpine, Temperate and Mediterranean ecosystems; (ii) planning, design, and evaluation of forestry for wildfire risk prevention with particular attention to pyrosylviculture and prescribed burning; (iii) characterization and modeling of forest fuels; (iv) development of tools for predicting fire danger and fire behavior; (v) development of guidelines for post-fire management.

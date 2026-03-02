@@ -42,13 +42,13 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'd.ascoli@unito.it'
-  #- icon: twitter
+  # - icon: twitter
   #  icon_pack: fab
   #  link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.it/citations?user=Rfl8PKUAAAAJ&hl=it
-  #- icon: github
+  # - icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.it/citations?user=gKRF3pAAAAAJ&hl=it
+  # - icon: github
   #  icon_pack: fab
   #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
@@ -67,10 +67,8 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - University of Turin
-  #- Researchers
 
 # The order within the user group
 order_groups: 1
 ---
-
 Main research lines: (i) forest ecology and disturbances with particular attention to wildfires in Alpine, Temperate and Mediterranean ecosystems; (ii) planning, design, and evaluation of forestry for wildfire risk prevention with particular attention to pyrosylviculture and prescribed burning; (iii) characterization and modeling of forest fuels; (iv) development of tools for predicting fire danger and fire behavior; (v) development of guidelines for post-fire management.

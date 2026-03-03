@@ -3,7 +3,7 @@ title: 'REWILDFIRE - Simulation of rewilding scenarios and wildfire regimes in t
 authors:
   - Davide Ascoli
   - Gian Luca Spadoni
-  - Jose V. Moris
+  - Jose Moris
   - R. Beretti
   - C. Passamani
   - Rachele Gamba

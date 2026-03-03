@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jose V. Moris
+title: Jose Moris
 
 # Full Name (for SEO)
 first_name: Jose

@@ -2,7 +2,7 @@
 title: 'Active and passive forest management: Effects on ecosystem services across protected and unprotected areas in a Southern European regional context'
 authors:
   - Gian Luca Spadoni
-  - Jose V. Moris
+  - Jose Moris
   - Judith Kirschner
   - Sergio de Miguel
   - Imma Oliveras Menor

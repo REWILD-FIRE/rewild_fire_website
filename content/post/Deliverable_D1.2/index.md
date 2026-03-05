@@ -12,4 +12,4 @@ Deliverable 1.2 investigating the {{< staticref "uploads/deliverables/REWILDFIRE
 
 ![](/uploads/deliverables/featured_D1.2.jpg)
 
-*Figure - Best rewilding alternative in the italian Alpine space. BAU = Business as usual; St_R = Strict rewilding; FSR_DP = Fire-smart rewilding with direct prevention; FSR_DIP = Fire-smart rewilding with direct + indirect prevention. *
+*Figure - Best rewilding alternative in the italian Alpine space. BAU = Business as usual; St_R = Strict rewilding; FSR_DP = Fire-smart rewilding with direct prevention; FSR_DIP = Fire-smart rewilding with direct + indirect prevention.*
